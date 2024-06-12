@@ -1,5 +1,9 @@
 # Netflix Movie Recommendation System 🎬
 
+
+<img src = "IMG_1178.gif"/>
+
+
 ### Overview
 
 Hi there! Welcome to my Netflix Movie Recommendation System project. I built this system to suggest movies and TV shows you might enjoy based on your viewing history. By diving into a Netflix dataset, I explored various data analysis techniques and machine learning algorithms to create a personalized recommendation experience.
