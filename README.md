@@ -6,25 +6,35 @@
 <img src = "IMG_1178.gif"/>
 
 
+<strong>Technologies Used</strong>
+
+Python: The core programming language used for the project.
+Pandas: For data manipulation and analysis.
+NumPy: For numerical operations.
+scikit-learn: For TF-IDF vectorization and cosine similarity calculations.
+Matplotlib and Seaborn: For data visualization.
+Jupyter Notebook: For interactive development and documentation.
+
+
 ### Overview
 
 Hi there! Welcome to my Netflix Movie Recommendation System project. I built this system to suggest movies and TV shows you might enjoy based on your viewing history. By diving into a Netflix dataset, I explored various data analysis techniques and machine learning algorithms to create a personalized recommendation experience.
 
 
-### Project Goals:<br>
+<strong>Project Goals:</strong><br>
 <hr>
 
-#### Data Collection and Preprocessing:<br>
+<strong>Data Collection and Preprocessing:</strong><br>
 Gather and clean the Netflix dataset to ensure it's ready for analysis.
 Handle any missing data to keep things consistent and accurate.
 
 
-#### Exploratory Data Analysis (EDA):<br>
+<strong>Exploratory Data Analysis (EDA):</strong><br>
 Analyze the dataset to uncover interesting patterns and insights.
 Create visualizations that highlight key trends and features.
 
 
-##### Model Training:<br>
+<strong<Model Training:</strong><br>
 Use TF-IDF vectorization to convert text data into numerical format.
 Apply cosine similarity to find relationships between different titles.
 Recommendation System Development:
@@ -32,20 +42,20 @@ Build a recommendation system using those cosine similarity scores.
 Develop a user-friendly class (FlixHub) to manage the recommendation process.
 
 
-#### Evaluation and Testing:<br>
+ <strong>Evaluation and Testing:</strong><br>
 Test the system with different scenarios to ensure it’s accurate and reliable.
 Optimize the algorithm for the best performance possible.
 
 
-### Outcomes
+<strong>Outcomes<\strong>
 <hr>
 
-#### Data Preprocessing:<br>
+<strong>Data Preprocessing:<\strong><br>
 Successfully cleaned and prepared the dataset for analysis.
 Performed thorough EDA to understand the data and uncover trends.
 
 
-#### Model Implementation:<br>
+<strong>Model Implementation:<\strong><br>
 Applied TF-IDF vectorization and cosine similarity to build a solid recommendation system.
 Efficiently managed data processing by saving and reloading matrices.
 User-Friendly Recommendation System:
