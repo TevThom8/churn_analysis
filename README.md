@@ -1,6 +1,8 @@
 # Netflix Movie Recommendation System 🎬
 
 
+[Notebook](https://github.com/TevThom8/movie_recommendations_/blob/main/movie-recommendation-system.ipynb)
+
 <img src = "IMG_1178.gif"/>
 
 
