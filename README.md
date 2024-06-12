@@ -57,24 +57,25 @@ Documented the entire process with clear explanations and comments.
 
 #### Here are some sample outputs from my recommendation system:
 
-Input: "The Godfather"
+#### Example Recommendations
 
-Recommended Movies:
+##### Input: "The Godfather"
+##### Recommended Movies:
 
-The Godfather: Part II
-Goodfellas
-Scarface
-Pulp Fiction
-Casino
-Input: "The Dark Knight"
+1)The Godfather: Part II
+2)Goodfellas
+3)Scarface
+4)Pulp Fiction
+5)Casino
+6)Input: "The Dark Knight"
+7)Recommended Movies:
 
-Recommended Movies:
+8)Batman Begins
+9)The Dark Knight Rises
+10)Inception
+11)Interstellar
+12)Joker
 
-Batman Begins
-The Dark Knight Rises
-Inception
-Interstellar
-Joker
 
 
 
