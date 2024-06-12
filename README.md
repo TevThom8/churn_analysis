@@ -55,26 +55,24 @@ Verified system performance with multiple test cases, ensuring accurate and rele
 Created visualizations to illustrate data trends and model performance.
 Documented the entire process with clear explanations and comments.
 
-#### Here are some sample outputs from my recommendation system:
-
-#### Example Recommendations
+#### Example Recommendations<hr>
 
 ##### Input: "The Godfather"
+
 ##### Recommended Movies:
 
-1)The Godfather: Part II
-2)Goodfellas
-3)Scarface
-4)Pulp Fiction
-5)Casino
-6)Input: "The Dark Knight"
-7)Recommended Movies:
-
-8)Batman Begins
-9)The Dark Knight Rises
-10)Inception
-11)Interstellar
-12)Joker
+1)The Godfather: Part II<br>
+2)Goodfellas<br> 
+3)Scarface<br>
+4)Pulp Fiction<br>
+5)Casino<br>
+6)Input: "The Dark Knight"<br>
+7)Recommended Movies:<br>
+8)Batman Begins<br>
+9)The Dark Knight Rises<br>
+10)Inception<br>
+11)Interstellar<br>
+12)Joker<br>
 
 
 
